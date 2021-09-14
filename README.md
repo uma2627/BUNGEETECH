@@ -22,4 +22,4 @@ python3 main.py
 ```
 
 ## Submitted by
-[Rosun GV (17MIS0394)](https://gvr-portfolio.herokuapp.com/)
+[UMA MAHESWARI (17MIS0496)](https://gvr-portfolio.herokuapp.com/)
